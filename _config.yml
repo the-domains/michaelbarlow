@@ -1,6 +1,6 @@
 name: MichaelBarlow
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.6353609478101134
 title: Michael Barlow
 cta:
   domain: null
@@ -24,3 +24,4 @@ purpose:
   - name: follow
     item: null
     url: null
+typography_spectrum: 0.7712884615175426
